@@ -2,7 +2,7 @@ using System;
 
 class test{
 	static void Main(string[] args){
-		Console.WriteLine ("はろー");
+		Console.WriteLine ("はろー!!");
 		 string a,b,c;
 		Console.WriteLine ("あなたのお名前を教えてほしいな");
 		 a = Console.ReadLine();
